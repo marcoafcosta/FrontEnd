@@ -1,0 +1,53 @@
+.demoMainContainer {
+
+    background-color: rgb(255, 255, 255);
+    height: 100%;
+    width: 50vw;
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    
+}
+html, body, #root, .App {
+    height: 100%;
+  }
+
+  
+  .cardContainerDemo{
+      display: flex;
+     background-color: rgb(204, 194, 194);
+     justify-content: center;
+  /*height: 50vh;
+  width: 85%;
+  position: absolute;
+  top: 25vh;
+  align-items: center;
+  left: 0;
+  float: none;
+    margin: 0 auto; */
+    padding: 1%;
+  
+}
+.demoCard1 {
+    flex: 0 0 50%;
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+ }
+ 
+ .demoCard2 {
+    flex: 0 0 50%;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+ }
+
+
+ .demoCard3 {
+
+    flex: 0 0 50%;
+    display: flex;
+    justify-content: flex-start;
+    padding: 10px;
+ }
+  

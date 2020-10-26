@@ -1,0 +1,28 @@
+.mainContainer {
+    align-items: center ;
+    background-color: blue;
+    max-height: fit-content;
+    margin-top: auto;
+    max-width: 500px;
+    align-self: center;
+    display: flex;
+    left: 25%;
+
+  }
+
+
+
+.googleMaps {
+  
+  
+  max-width: 50%;
+  align-self: center;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+  
+  align-items: center;
+  justify-content: center;
+  
+}
